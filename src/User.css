@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script');
+
+.userlistdiv img {
+  width: 200px;
+  height: 200px;
+}
+
+
+.main{
+    font-family: 'Dancing Script', cursive;
+}
+.btn {
+margin-left: 45%;
+}
